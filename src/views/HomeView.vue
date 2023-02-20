@@ -12,11 +12,6 @@
 			<p>Content of Tab Pane 2</p>
 			<p>Content of Tab Pane 2</p>
 		</a-tab-pane>
-		<a-tab-pane key="3" tab="Tab Title 3">
-			<p>Content of Tab Pane 3</p>
-			<p>Content of Tab Pane 3</p>
-			<p>Content of Tab Pane 3</p>
-		</a-tab-pane>
 	</a-tabs>
 </template>
 <script setup>
