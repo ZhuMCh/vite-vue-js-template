@@ -21,4 +21,4 @@ trim_trailing_whitespace = false
 
 # 表示仅 ts、js、vue、css 文件适用以下规则
 [*.{ts,js,vue,css}]
-indent_size = 2
+indent_size = 4
