@@ -10,7 +10,7 @@ import HelloWorld from './components/HelloWorld.vue';
 		<a href="https://vuejs.org/" target="_blank">
 			<img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
 		</a>
-		<div><router-link to="/">首页</router-link>|<router-link to="/about">关于</router-link></div>
+		<div><router-link to="/">首页1</router-link>|<router-link to="/about">关于1</router-link></div>
 	</div>
 	<HelloWorld msg="Vite + Vue" />
 	<router-view></router-view>
